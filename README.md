@@ -1,6 +1,6 @@
 ### qianyue996 😀
 ---
-![](assets/Bottom_up.svg)
+![](assets/Bottom_up.svg)<br>
 热爱编程，热爱计算机
 ### About Me
 25年毕业
