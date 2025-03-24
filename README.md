@@ -1,8 +1,8 @@
 ### qianyue996 😀
-<hr>
+<br>
 ---
 ![](assets/Bottom_up.svg)
-<hr>
+<br>
 热爱编程，热爱计算机
 ---
 ### About Me
